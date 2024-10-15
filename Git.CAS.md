@@ -134,6 +134,19 @@ Formador / Desarrollador Web FullStack
 
 ## Contenidos
 
+- Introducción
+- Quick start
+- Aprendiendo a referenciar revisiones y paths
+- Git internals
+- Herramientas para preparar un buen commit en cualquier situación
+- Reescribiendo la historia
+- Trabajando en paralelo
+- Utilidades
+- Configuración de git. hooks
+- Sub-proyectos
+- Integración con otras herramientas y entornos
+- Buenas prácticas
+
 1. INTRODUCCIÓN
 
    - Qué es un SCV y qué un SCV distribuido
